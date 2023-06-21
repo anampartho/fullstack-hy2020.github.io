@@ -1,0 +1,59 @@
+{
+  "common": {
+    "nextPart": "পরবর্তী অংশ",
+    "previousPart": "আগের অংশ",
+    "readMore": "আরও পড়ুন",
+    "proposeChanges": "কোর্স ম্যাটেরিয়ালে পরিবর্তন প্রস্তাব করুন"
+  },
+  "searchPage": {
+    "noMatches": "কোন মিল পাওয়া যায়নি",
+    "matchesTitle": "সার্চ টার্ম \"{{query}}\" এর জনি {{count}} টি মিল পাওয়া গিয়েছে"
+  },
+  "aboutPage": {
+    "generalTitle": "সাধারণ"
+  },
+  "navigation": {
+    "skipToContent": "কন্টেন্টে চলে যান",
+    "aboutCourse": "কোর্স সম্পর্কিত তথ্য",
+    "courseContents": "কোর্সের কন্টেন্টসমূহ",
+    "faq": "বহুল জিজ্ঞাসিত প্রশ্নসমূহ",
+    "partners": "অংশীদার",
+    "challenge": "চ্যালেঞ্জ",
+    "searchLinkSrLabel": "কোর্স ম্যাটেরিয়াল থেকে খুঁজুন",
+    "ThemeSwitcherSrLabel": "ডার্ক থিম ব্যবহার করুন",
+    "LanguagePickerSrLabel": "ভাষা নির্বাচন কর"
+  },
+  "challengePage": {
+    "aboutTitle": "এটি ফুল স্ট্যাক চ্যালেঞ্জ",
+    "joinTitle": "প্রতিষ্ঠানসমুহ, আমাদের ডাকে সাড় দিন",
+    "registerButton": "ফুল স্ট্যাক চ্যালেঞ্জ এ আপনার প্রতিষ্ঠান কে রেজিস্টার করুন",
+    "nameLabel": "নাম",
+    "namePlaceholder": "Jane Doe",
+    "titleLabel": "টাইটেল",
+    "companyLabel": "প্রতিষ্ঠান",
+    "companyPlaceholder": "Company Co",
+    "phoneLabel": "ফোন",
+    "emailLabel": "ইমেইল",
+    "whereDidYouHearLabel": "এই চ্যালেঞ্জ সম্পর্কে আপনি কোথা থেকে জেনেছেন",
+    "submitButton": "সাবমিট",
+    "submitSuccessMessage": "ধন্যবাদ! অমরা অতি শীঘ্রই আপনার সাথে যোগাযোগ করব!",
+    "participantsTitle": "নিচের প্রতিষ্ঠানগুলো ফুল স্ট্যাক চ্যালেঞ্জ এর সাথে যুক্ত আছেন",
+    "coOperationTitle": "সার্বিক সহযোগিতায়",
+    "infoButton": "চ্যালেঞ্জ সম্পর্কে আরও জানুন"
+  },
+  "companiesPage": {
+    "storiesTitle": "আমাদের অংশীদারদের মধ্যে থেকে ডেভেলপার দের কিছু গল্প"
+  },
+  "faqPage": {
+    "faqTitle": "সাধারণ জিজ্ঞাসা সমূহ"
+  },
+  "homePage": {
+    "startCourseButton": "কোর্স শুরু করুন",
+    "announcementsTitle": "বিবৃতি",
+    "authorsTitle": "লাইসেন্স এবং লেখকেরা",
+    "courseNameTitle": "ফুল স্ট্যাক ওপেন"
+  },
+  "notFoundPage": {
+    "title": "পেজটি খুঁজে পাওয়া যায়নি"
+  }
+}
